@@ -6,4 +6,5 @@
 * **4-8-2020**: How to Calculate the Output Shape of the CNN
 * **4-9-2020**: SQL Essential certificate + importing images
 * **4-10-2020**: [SQL test](https://sqlzoo.net/wiki/SQL_Tutorial)
-
+* **4-11-2020**: Reading 3 chapters (2,3,4)
+* **4-12-2020**: Break
