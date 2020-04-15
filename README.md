@@ -8,3 +8,5 @@
 * **4-10-2020**: [SQL test](https://sqlzoo.net/wiki/SQL_Tutorial)
 * **4-11-2020**: Reading 3 chapters (2,3,4)
 * **4-12-2020**: Break
+* **4-12-2020**: Preparing for the Amazon interview DS II
+* **4-12-2020**: Advanced Predictive Model: Mastering Ensembles and Metamodeling
