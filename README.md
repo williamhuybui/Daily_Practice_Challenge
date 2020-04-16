@@ -10,3 +10,4 @@
 * **4-12-2020**: Break
 * **4-13-2020**: Preparing for the Amazon interview DS II
 * **4-14-2020**: Advanced Predictive Model: Mastering Ensembles and Metamodeling
+* **4-15-2020**: DS Interview Practice part 1
