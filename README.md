@@ -11,3 +11,7 @@
 * **4-13-2020**: Preparing for the Amazon interview DS II
 * **4-14-2020**: Advanced Predictive Model: Mastering Ensembles and Metamodeling
 * **4-15-2020**: DS Interview Practice part 1
+* **4-16-2020**: DS Interview Practice part 2
+* **4-17-2020**: Interview with Amazon
+* **4-18-2020**: Writing a letter to the President asking for the access to SMA clinical trial
+* **4-19-2020**: Break
