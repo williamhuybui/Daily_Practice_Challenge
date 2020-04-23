@@ -15,4 +15,6 @@
 * **4-17-2020**: Interview with Amazon
 * **4-18-2020**: Writing a letter to the President asking for the access to SMA clinical trial
 * **4-19-2020**: Break
-* **4-20-2020**: Break
+* **4-20-2020**: Cont letter
+* **4-21-2020**: Create my work station, cont letter
+* **4-22-2020**: Dimensionality Reduction
