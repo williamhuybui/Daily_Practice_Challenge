@@ -15,3 +15,4 @@
 * **4-17-2020**: Interview with Amazon
 * **4-18-2020**: Writing a letter to the President asking for the access to SMA clinical trial
 * **4-19-2020**: Break
+* **4-20-2020**: Break
